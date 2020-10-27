@@ -1,5 +1,5 @@
 # Imersão Dados
-___
+
 A Imersão Dados é um evento promovido pela **Alura**
 São 5 aulas sobre Data Science
 ___
